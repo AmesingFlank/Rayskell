@@ -1,6 +1,6 @@
 # Rayskell
 
-A minimal ray tracer program, written in Haskell, and used for a short presentation about Ray Tracing that I gave in Somerville College, Oxford.
+A minimal ray tracer program, written in Haskell, and used for a short presentation about Ray Tracing that I gave in Somerville College, Oxford. (Which is why I used Haskell LoL, IYKYK)
 
 ## Building & Running
 run
